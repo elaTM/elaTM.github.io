@@ -70,8 +70,7 @@ h2 {
 p {
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    margin-top: 132px;
+    text-align: center bottom;
     border: solid white;
     margin-left: 830px;
     margin-right: 830px;
