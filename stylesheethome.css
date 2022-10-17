@@ -27,15 +27,6 @@ h2 {
     text-align: center;
 }
 
-.instagram {
-    width: 60px;
-    float: left;
-    margin-left: 400px;
-    margin-top: 30px;
-    border: solid #2B2720;
-    border-radius: 18px;
-}
-
 .ins {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -69,30 +60,6 @@ a { color: inherit; }
     -o-transition: opacity .5s ease-out;
 }
 
-.instagram {
-    opacity: 1;
-    transition: opacity .5s ease-in;
-    -moz-transition: opacity .5s ease-in;
-    -webkit-transition: opacity .5s ease-in;
-    -o-transition: opacity .5s ease-in;
-}
-
-.instagram:hover {
-    opacity: .5;
-    transition: opacity .5s ease-out;
-    -moz-transition: opacity .5s ease-out;
-    -webkit-transition: opacity .5s ease-out;
-    -o-transition: opacity .5s ease-out;
-}
-
-.yt {
-    width: 60px;
-    float: left;
-    margin-top: 30px;
-    border: solid #2B2720;
-    border-radius: 20px;
-}
-
 .youtube {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -104,22 +71,6 @@ a { color: inherit; }
     background-color: #7C7265;
 }
 
-.yt {
-    opacity: 1;
-    transition: opacity .5s ease-in;
-    -moz-transition: opacity .5s ease-in;
-    -webkit-transition: opacity .5s ease-in;
-    -o-transition: opacity .5s ease-in;
-}
-
-.yt:hover {
-    opacity: .5;
-    transition: opacity .5s ease-out;
-    -moz-transition: opacity .5s ease-out;
-    -webkit-transition: opacity .5s ease-out;
-    -o-transition: opacity .5s ease-out;
-}
-
 .youtube {
     opacity: 1;
     transition: opacity .5s ease-in;
@@ -128,11 +79,73 @@ a { color: inherit; }
     -o-transition: opacity .5s ease-in;
 }
 
-.you:hover {
+.youtube:hover {
     opacity: .5;
     transition: opacity .5s ease-out;
     -moz-transition: opacity .5s ease-out;
     -webkit-transition: opacity .5s ease-out;
     -o-transition: opacity .5s ease-out;
 }
+
+footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 115px;
+    font-weight: bold;
+}
+
+.discord {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 30px;
+    border: solid #2B2720;
+    border-radius: 30px;
+    background-color: #7C7265;
+}
+
+.discord {
+    opacity: 1;
+    transition: opacity .5s ease-in;
+    -moz-transition: opacity .5s ease-in;
+    -webkit-transition: opacity .5s ease-in;
+    -o-transition: opacity .5s ease-in;
+}
+
+.discord:hover {
+    opacity: .5;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+}
+
+.steam {
+    opacity: 1;
+    transition: opacity .5s ease-in;
+    -moz-transition: opacity .5s ease-in;
+    -webkit-transition: opacity .5s ease-in;
+    -o-transition: opacity .5s ease-in;
+}
+
+.steam:hover {
+    opacity: .5;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+}
+
+.steam {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 30px;
+    border: solid #2B2720;
+    border-radius: 30px;
+    background-color: #7C7265;
+}
+
 
